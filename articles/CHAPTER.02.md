@@ -15,7 +15,7 @@
  
 4. ** 配置Body项；** 
  直接在raw选型卡中添加需要传递的json串； 
-代码示例（department 添加）：
+代码示例（department 添加，该示例代码可以在项目的swagger中找到： http://localhost:8031/swagger-ui.html 端口号使用自己的配置）：
 ```java
 {
   "children": [
